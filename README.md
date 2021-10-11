@@ -59,6 +59,13 @@ This project leverages python 3.7 with the following modules:
 * math
 * sklearn
 * dateutil
+* time
+* tweepy
+* dotenv
+* csv
+* datetime
+* re
+
 
 ---
 
@@ -71,7 +78,10 @@ pip install alpaca-trade-api
 pip install wordcloud
 pip install matplotlib
 pip install psaw
+pip install tweepy
 pip install -U scikit-learn
+pip install datetime
+pip install re
 
 ```
 
